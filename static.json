@@ -1,7 +1,7 @@
 {
   "headers": {
     "/*": {
-      "X-Author": "openeduweb",
+      "X-Author": " Шафорост, Наталья Викторовна", 
       "Access-Control-Allow-Origin": "*"
     }
   }
